@@ -14,7 +14,7 @@ This analysis aims to preprocess a dataset of charity applications and develop a
 
 ### Results:
 #### Model Performance:
-- **Accuracy Achieved**: 62%
+- **Accuracy Achieved**: 62.7%
 - **Target Accuracy**: 75% or above
 - **Optimization Techniques Used**: Batch Normalization, Dropout, and Hyperparameter Tuning.
 
