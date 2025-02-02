@@ -18,15 +18,15 @@ This analysis aims to preprocess a dataset of charity applications and develop a
 - **Target Accuracy**: 75% or above
 - **Optimization Techniques Used**: Batch Normalization, Dropout, and Hyperparameter Tuning.
 
-![Model Performance](../Images/best_model.png) 
-<img src="../Images/best_model.png" width="400" />
+![Model Performance](Images/best_model.png) 
+
 
 #### Model Architecture and Performance:
 - **Input Layer**: 512 neurons, ReLU activation
 - **Hidden Layers**: 256, 128, 64, and 32 neurons with ReLU activation
 - **Output Layer**: 1 neuron, Sigmoid activation
 
-![Model Hyperparameters](../Images/best_hyper.png) 
+![Model Hyperparameters](Images/best_hyper.png) 
 
 ## Summary:
 While we were able to successfully preprocess the dataset and build a binary classification model, the model's performance was not optimal (62.7% accuracy). There is still potential for improving the model by adjusting hyperparameters, fine-tuning the architecture, and further cleaning the data. The use of ensemble methods, like Random Forest or Gradient Boosting, could be considered for improved results in future iterations.
