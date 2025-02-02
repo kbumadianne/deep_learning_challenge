@@ -19,6 +19,7 @@ This analysis aims to preprocess a dataset of charity applications and develop a
 - **Optimization Techniques Used**: Batch Normalization, Dropout, and Hyperparameter Tuning.
 
 ![Model Performance](../Images/best_model.png) 
+<img src="../Images/best_model.png" width="400" />
 
 #### Model Architecture and Performance:
 - **Input Layer**: 512 neurons, ReLU activation
